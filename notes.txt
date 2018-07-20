@@ -1,0 +1,2 @@
+Shoulder servo needs to be able to move 0.952 lbs (15.24 ounces, 432 g)
+Elbow servo needs to be able to move 0.664 lbs (10.62 ounces, 301 g)
